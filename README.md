@@ -1,10 +1,12 @@
-![](https://github.com/iaks23/iaks23/blob/main/AksGithub.gif)
+[![Header](https://github.com/iaks23/iaks23/blob/main/AksGithub.gif)]
 
-- 👋 Hi, I’m @iaks23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# >> print("Hello Everyone! 👋 ")
+
+I'm Akshaya, a Data Science student interested in applying my learnings to real time problems. 
+
+ 
+
+
 
 <!---
 iaks23/iaks23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
