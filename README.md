@@ -2,7 +2,12 @@
 
 # >> Hello Everyone! 👋 
 
-I'm Akshaya, a Data Science student interested in applying my learnings to tackle real time problems. 
+I'm Akshaya, a Data Science student interested in applying my learnings to tackle real world problems. 
+
+As an aspiring Data Scientist, I want to be able to work with the voluminous amount of scattered data around us into meaningful information, find patterns and 
+make predictions that could possibly change our lives, someday. 
+I am always up for a quick chat about interesting findings in the field, 
+so feel free to drop me a message on, 
 
 <details> 
   <summary>
@@ -13,6 +18,11 @@ I'm Akshaya, a Data Science student interested in applying my learnings to tackl
   <i> Hey Siri, play Me! by Taylor Swift ft. Brendon Urie </i>
   
   <br>
+<ul>
+<li> 
+<li>
+<li>
+<\ul>
 
 
 
