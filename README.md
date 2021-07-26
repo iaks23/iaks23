@@ -19,4 +19,4 @@ Check out my work! 👇
 
 [![InstaPage][http://i.imgur.com/YckIOms.png]][https://www.instagram.com/itsalongstoryshort_/]
 
-![Twitter][http://i.imgur.com/wWzX9uB.png][http://www.twitter.com/carlsednaoui]
+[![Twitter][http://i.imgur.com/wWzX9uB.png]](http://www.twitter.com/carlsednaoui)
