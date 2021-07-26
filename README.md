@@ -17,4 +17,4 @@ When I'm not finding stories to tell via data, you can find me crafting up short
 
 Check out my work! 👇 
 
-[![Insta][https://github.com/iaks23/iaks23/blob/main/innstaicon.png]][https://www.instagram.com/itsalongstoryshort_/]
+
