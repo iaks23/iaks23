@@ -2,6 +2,8 @@
 
 # >> Hello Everyone! 👋 
 
+[![Visits Badge](https://badges.pufler.dev/visits/iaks23/iaks23)](https://badges.pufler.dev)
+
 I'm Akshaya, a Data Science student interested in applying my learnings to tackle real time problems. 
 
 
