@@ -4,6 +4,10 @@
 
 I'm Akshaya, a Data Science student interested in applying my learnings to tackle real time problems. 
 
+<details> Some Facts About Me
+  
+  
+</details>
 
 
 # >> My stats 📈
