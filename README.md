@@ -1,4 +1,4 @@
-![](https://github.com/iaks23/iaks23/blob/main/AksBanner-GitHub.mp4)
+![](https://github.com/iaks23/iaks23/blob/main/AksBaner-Github.png)
 
 - 👋 Hi, I’m @iaks23
 - 👀 I’m interested in ...
