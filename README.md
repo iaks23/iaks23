@@ -1,14 +1,13 @@
-[![Header](https://github.com/iaks23/iaks23/blob/main/AksGithub.gif)]
+![Header](https://github.com/iaks23/iaks23/blob/main/AksGithub.gif)
 
-# >> print("Hello Everyone! 👋 ")
+# >> print("Hello Everyone! 👋")
 
-I'm Akshaya, a Data Science student interested in applying my learnings to real time problems. 
-
- 
+I'm Akshaya, a Data Science student interested in applying my learnings to tackle real time problems. 
 
 
+# >> print("My stats 📈")
 
-<!---
-iaks23/iaks23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Akshaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iaks23&show_icons=true&theme=radical)
+
+
+# >> print("Check out my work! 👇")
