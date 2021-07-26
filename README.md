@@ -18,3 +18,5 @@ When I'm not finding stories to tell via data, you can find me crafting up short
 Check out my work! 👇 
 
 [![InstaPage][http://i.imgur.com/YckIOms.png]][https://www.instagram.com/itsalongstoryshort_/]
+
+[![Twitter][http://i.imgur.com/wWzX9uB.png]][http://www.twitter.com/carlsednaoui]
