@@ -4,7 +4,12 @@
 
 I'm Akshaya, a Data Science student interested in applying my learnings to tackle real time problems. 
 
-<details> Some Facts About Me
+<details> 
+  <summary>
+    Some facts about me-e-e
+  </summary>
+  
+  <i> Hey Siri, play Me! by Taylor Swift ft. Brendon Urie </i>
   
   
 </details>
