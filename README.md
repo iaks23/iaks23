@@ -10,4 +10,8 @@ I'm Akshaya, a Data Science student interested in applying my learnings to tackl
 ![Akshaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iaks23&show_icons=true&theme=radical)
 
 
+# >> What Am I Reading? 📖
+
+![GoodReads](https://www.goodreads.com/user_challenges/29683112)
+
 # >> Check out my work! 👇
