@@ -42,4 +42,4 @@ When I'm not finding stories to tell via data, you can find me crafting up short
 
 Check out my work! 👇 
 
-[![Instagram](https://github.com/iaks23/iaks23/blob/main/IMG_6514.jpg)](https://www.instagram.com/itsalongstoryshort_/)
+[![Instagram](https://github.com/iaks23/iaks23/blob/main/Untitled%20design.png](https://www.instagram.com/itsalongstoryshort_/)
