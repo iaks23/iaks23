@@ -7,7 +7,7 @@ I'm Akshaya, a Data Science student interested in applying my learnings to tackl
 As an aspiring Data Scientist, I want to be able to alter the voluminous amount of scattered data around us into meaningful information, find patterns and 
 make predictions that could possibly change our lives, someday. 
 I am always up for a quick chat about interesting findings in the field, 
-so feel free to drop me a message on, 
+so feel free to drop me a message! 
 
 <br>
 
@@ -21,9 +21,9 @@ so feel free to drop me a message on,
   
   <br>
 <ul>
-<li> 
-<li>
-<li>
+<li> I love learning new languages (non-tech kind) and my current number of known languages stands at 7.
+<li> Absolutely obsessed with dogs. If you own one, we're instantly best mates. 
+<li> I really struggle to list out items. 
 </ul>
 
 
