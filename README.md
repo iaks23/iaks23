@@ -1,6 +1,8 @@
 ![Header](https://github.com/iaks23/iaks23/blob/main/AksGithub.gif)
 
-# >> Hello Everyone! 👋 
+![](https://komarev.com/ghpvc/?username=iaks23&color=blueviolet)
+
+# >> Hello Everyone! 👋  नमस्ते 🙏🏻
 
 I'm Akshaya, a Data Science student interested in applying my learnings to tackle real world problems. 
 
