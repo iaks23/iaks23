@@ -1,4 +1,4 @@
-![Header](https://github.com/iaks23/iaks23/blob/main/AksGithub.gif)
+![Header](https://github.com/iaks23/iaks23/blob/main/newbanner.png)
 
 ![](https://komarev.com/ghpvc/?username=iaks23&color=blueviolet)
 
