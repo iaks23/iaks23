@@ -36,6 +36,8 @@ My ultimate dream in life is to use AI for good; I want to create solutions that
 
 </details>
 
+# >> Notable Projects 
+
 
 # >> My stats 📈
 
