@@ -36,8 +36,22 @@ My ultimate dream in life is to use AI for good; I want to create solutions that
 
 </details>
 
-# >> Notable Projects 
+# >> My Pride & Joy 🛠
 
+Here's a list of projects I had the most fun working on.
+
+|Project Name|About|
+|---|---|
+|[Your Biggest Regret](https://github.com/iaks23/R_Text_Analysis)|Introductory project on text and sentiment analysis using R and a custom YouTube dataset|
+|[Python Curreny Converter](https://github.com/iaks23/currency-converter)|A currency converter to calculate rates from historical dates using the FrankfurterAPI|
+|[Gapminder - A Visual Treat](https://github.com/iaks23/PortfolioProject1-Gapminder)|Data Visualization project on Plotly using the gapminder dataset|
+
+
+# >> Check out my recent Medium Posts 💻
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@akshayaparthasarathy_60118/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@akshayaparthasarathy_60118/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@akshayaparthasarathy_60118/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@akshayaparthasarathy_60118/2" alt="Recent Article 2"> 
 
 # >> My stats 📈
 
